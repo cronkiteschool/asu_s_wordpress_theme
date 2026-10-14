@@ -27,6 +27,8 @@ The compiled theme stylesheet is [`style.css`](style.css), with source styles in
 
 Follow the WordPress coding conventions described in [`CONTRIBUTING.md`](CONTRIBUTING.md). Test changes against the WordPress and PHP versions used by the target site, with particular attention to responsive navigation and keyboard access.
 
+The obsolete historical Travis CI configuration has been retired. No hosted CI workflow is currently configured.
+
 ## Upstream projects and assets
 
 - [_s / Underscores](https://underscores.me/) — GPL-2.0-or-later
@@ -37,5 +39,5 @@ Follow the WordPress coding conventions described in [`CONTRIBUTING.md`](CONTRIB
 
 ## License
 
-GPL-2.0-or-later, consistent with WordPress and Underscores. See the license declaration in [`style.css`](style.css).
+GPL-2.0-or-later, consistent with WordPress and Underscores. See [`LICENSE`](LICENSE).
 
